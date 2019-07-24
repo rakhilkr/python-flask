@@ -1,5 +1,5 @@
-# python-flask
-skin disease dectection
+# python-flask-ML 
+# skin disease dectection - Basic ML project using TensorFlow
 
 Steps to setup the project on the machine:
 
